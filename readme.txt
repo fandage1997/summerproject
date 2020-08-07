@@ -9,3 +9,5 @@ Before training the network, you would have to put the images that you wish to u
 To fully go through the project, first use "realfiftyimages.ipynb" to generate training samples. And the train the network on the generated images. Then run "finalscript.ipynb" to test the result.
 
 It seems like Github could not upload empty folders. So one may want to create the folders on their own. Or one could download the rar file which include the entire structure of the files and folders.
+
+Images and the trained network model are also too big to be uploaded. Please contact 985468562@qq.com if needed.
